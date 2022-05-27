@@ -1,2 +1,2 @@
 # actions-env-variables
-Usage of Environment Variables within Actions
+This is a very basic actions repo to illustrate the usage of Environment Variables within Actions
